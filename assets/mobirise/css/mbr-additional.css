@@ -1713,6 +1713,9 @@ body {
 .cid-rdygFjjYNC H3 {
   color: #f9f295;
 }
+.cid-rdygFjjYNC B {
+  color: #f1e54e;
+}
 .cid-rdnlcdQBUS {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1759,45 +1762,20 @@ body {
 .cid-rdnlIAziSl H2 {
   color: #f9f295;
 }
-.cid-rdxa4nz3yE {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-rdyDURvz0q {
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-rdxa4nz3yE .card-box {
-  background-color: #ffffff;
-  padding: 2rem;
+.cid-rdyDURvz0q .mbr-section-subtitle {
+  color: #880000;
 }
-.cid-rdxa4nz3yE h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
+.cid-rdyDURvz0q DIV {
+  text-align: center;
+  color: #2e2e2e;
 }
-.cid-rdxa4nz3yE p {
-  color: #767676;
-  text-align: left;
-}
-.cid-rdxa4nz3yE .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rdxa4nz3yE .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-rdxa4nz3yE .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-rdxa4nz3yE I {
-  color: #806e08;
-}
-.cid-rdxa4nz3yE P {
-  color: #232323;
+.cid-rdyDURvz0q H2 {
+  text-align: center;
 }
 .cid-rdrExF0HXa {
   padding-top: 0px;
@@ -2160,7 +2138,7 @@ body {
 }
 .cid-rdunXGC7bp {
   padding-top: 45px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/moneymoney-1920x1080.jpg");
 }
 .cid-rdunXGC7bp H1 {
@@ -2171,6 +2149,7 @@ body {
 }
 .cid-rdunXGC7bp P {
   color: #292828;
+  text-align: left;
 }
 .cid-rduqEf5pwO {
   padding-top: 30px;

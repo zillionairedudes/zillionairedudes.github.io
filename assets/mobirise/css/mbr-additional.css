@@ -1700,7 +1700,7 @@ body {
 }
 .cid-rdEcmHlFcp {
   padding-top: 45px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/background2.jpg");
 }
 .cid-rdEcmHlFcp .mbr-section-subtitle {
@@ -1870,6 +1870,11 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/ferrari-villa-mansion-cars-hd-wallpaper-317028-1920x1200.jpg");
 }
+.cid-rdEz8Ruo8K {
+  padding-top: 90px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/ferrari-villa-mansion-cars-hd-wallpaper-317029-1920x1200.jpg");
+}
 .cid-rds48kGZTP {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -1951,6 +1956,9 @@ body {
 }
 .cid-rdsnu8gHyt .card-wrapper {
   height: 100%;
+}
+.cid-rdsnu8gHyt P {
+  color: #232323;
 }
 .cid-rdsr4SG9Sq {
   padding-top: 0px;
@@ -2181,4 +2189,9 @@ body {
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: #2e2e2e;
+}
+.cid-rdEz5QLBzM {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background5.jpg");
 }

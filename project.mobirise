@@ -28,13 +28,13 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#fdff4b",
         "#e9ff00",
         "#fdfdfd",
         "#2d6c07",
         "#697d09",
         "#806e08",
-        "#2e2e2e",
-        "#880000"
+        "#2e2e2e"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -525,7 +525,7 @@
               "color": "#584b04"
             },
             "B": {
-              "color": "#e9ff00"
+              "color": "#fdff4b"
             }
           },
           "_name": "header10",
